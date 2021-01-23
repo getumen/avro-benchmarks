@@ -8,3 +8,6 @@ require (
 	github.com/stretchr/testify v1.7.0
 	gopkg.in/avro.v0 v0.0.0-20171217001914-a730b5802183
 )
+
+replace github.com/hamba/avro v1.5.1 => ../avro
+
